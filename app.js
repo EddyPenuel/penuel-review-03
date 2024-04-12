@@ -11,8 +11,8 @@ const reviews = [
         id: 2,
         name: 'anna johnson',
         job: 'web designer',
-        img: "/img/personal-3.jfif",
-        //img: 'https://www.course-api.com/images/people/person-2.jpeg',
+        //img: "/img/personal-3.jfif",
+        img: 'https://www.course-api.com/images/people/person-2.jpeg',
         text: 'Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.',
       },
       {
