@@ -19,8 +19,8 @@ const reviews = [
         id: 3,
         name: 'rose jones',
         job: 'intern',
-        img: "/img/personal-4.jfif",
-       // img: 'https://www.course-api.com/images/people/person-4.jpeg',
+        // img: "/img/personal-4.jfif",
+        img: 'https://www.course-api.com/images/people/person-4.jpeg',
         text: 'Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.',
       },
       {
